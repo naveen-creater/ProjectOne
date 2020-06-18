@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="connecting">Connecting</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connected">connected</string>
+    <string name="screct">MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCk5ik2qbExMvdm
+lH1AzCH1M/9dUHE3pSEmElD3z5nDin7MthAIfzBLOjFEY8ygHL0h02VwijhOwS3u
+STJeS0xIhlXteF1w/aQSrGo4FRUJ6ZWAQBLMZXHMR2gHNmmO8bxdRU/9o2Rwqsbm
+sH+4MwAV1xee3QgdmWcYxyt6ZwgdQJYwH4TIoxXSDK7jmwnmTEZ6ktu6uPTdhaLt
++wLe+vLIH8gjOml/w7OL2RC3Ld1tMAZxxtZya4fESYkk8OQhw4T/N2dbDbWFk+lj
+C/KdVh7rad+lfGxiaX7L5r0cAyuU8Vh8rw4lNaVRRjpngKWe2VE5IfMlHzmP+Yj8
+F0hXF+P9AgMBAAECggEBAJOQxOD+CmuUyIEr8MrD4r+jwKqpCihZxchkK8EYLuom
+TkKzyrVP3M/1S5GAHeZK0ZYrr2N+zdTsW0YaitCHYcSlMtBIHpa25NUxJfz6ING2
+DuuuayQuxB+i5x1NPDmHaqGtHWBFj+Sjb0uSNzmHqlPhIGoyMskKNpCd6/KlsUU6
+z0mtg16GZcONKK9bXFB0HTr8+XqICAf5c+QhwI/IHFoV6mZo3o3PHWqlbTOSUh+B
+aE97WQwRZoBaAXWGMM4USWGvBITzv4nyEvg4bGWwpsiPTDw3m6TZoZI6UI3ps6Ra
+enZuD0gkwvn0n1GtT2+UYH+I4CpNTn+Rd20W9CMBfAECgYEA03bgc5y7kKegkWqM
+k5XjnIHIAwcNHQ1JDuTvZBCOb8yvwaJP3kEth7B1BfsQuzHzEQEXWKP77wqlyC5r
+M9QWAJGURl7ivAzptS3u/7VyoqTt4jjmAnFlOasemxuDUDqvmq5dNu/i8ovpOMt4
+hNQztcPh390jEHsy4qheiXIbYGECgYEAx6C2H3idyO/0AY1K5JxA71PI6AiyA0EO
+rR5bZHugCSvB29jdq++ApXnzdbnYmG2lwUzpSDTYoBXueZ+Aqt9F13FEZe9iytP5
+YanfFcOwco/uDaWPgA+5MtAiUc6EzwjC4ao+rfDBzQBqRTjxY+MKG3VZW93Nv38A
+3bd+6ZfkmR0CgYASik+vk0RWsHvBhCgDIJcuN6rDqTCbJXkMV0It8c2rO7UFMyfx
+gqFtTilUdujGoOCA0ymq2eXS1YonfPplNuke76SibttORYuQGRDlVpFQdUluFjME
+b9DCN6CdVNI0jJCs7TC7CllJjr7J/fz5GGnYO+5n5EmYvlR9zulK/7gqwQKBgC/G
+Ik+9yeUAp+CHM9kqG9AquPXuvstQknaTwUN24oHPWwGGEObI1nzDhqQx6cfw1a5A
+/cMuAnmtRfkNVvmNnWVF0hyjAX2Q5SmeQakvv9Zq44mYiZMYMDYc4Vm6lsYFTr46
+w+1UpMyuwL/4NKy29QBFQTFfD5I4jriA5Xp5w1dxAoGAaYgjzBldhxANotA38cyu
+vkAaKzKfcDB4QdmjqEewAfDEXSQsfYzcJcx+Sf2hZb1K9+A7wrW8OFDfg6XFEBg0
+YKXrV0o4+PzDp0817eSmt0EjIc26jsx1eDK9RaCDVtpVWg29aLf2TRQqHDDG40xJ
+7G9v954gN8i/+6+jffdXacI=</string>
+    <string name="search">Search</string>
+</resources>
