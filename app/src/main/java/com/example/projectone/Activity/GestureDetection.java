@@ -44,6 +44,7 @@ public class GestureDetection extends AppCompatActivity {
 
                 Snackbar snackbar = Snackbar.make(constraintLayout, "Swiped top", Snackbar.LENGTH_SHORT);
                 snackbar.show();
+
             }
 
             public void onSwipeRight() {

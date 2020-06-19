@@ -15,6 +15,7 @@ public class VpnActivity extends AppCompatActivity implements View.OnClickListen
     private TextView mServerAddress;
     private TextView mServerPort;
     private TextView mSharedSecret;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
